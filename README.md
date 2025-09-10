@@ -1,9 +1,7 @@
 <div align="center">
   <img 
-    height="200" 
-    width="200"
     src="https://i.pinimg.com/736x/75/2d/95/752d956ef4f79f5453a2c57331feee0c.jpg" 
-    style="border-radius: 50%; object-fit: cover;"
+    style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;"
   />
 </div>
 
