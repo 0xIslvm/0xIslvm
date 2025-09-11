@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.ibb.co/7Qr0M3F/pharaoh-profile-circle.png" alt="Islam Essam" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 2px solid #333;"/>
+  <img src="https://i.pinimg.com/736x/75/2d/95/752d956ef4f79f5453a2c57331feee0c.jpg" alt="Islam Essam" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover; border: 2px solid #333;"/>
 </div>
 
 <h1 align="center">
@@ -47,15 +47,6 @@
   <a href="https://filezilla-project.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo" />
   </a>
-</p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mal-X-Hunter&show_icons=true&theme=tokyonight&icon_color=79ff97&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mal-X-Hunter&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
